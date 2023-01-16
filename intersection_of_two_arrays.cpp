@@ -1,4 +1,4 @@
-Time: O(n*log(m)), where log(m) - binary search, for - O(n)
+// Time: O(n*log(m)), where log(m) - binary search, for - O(n)
 
 class Solution {
 public:
