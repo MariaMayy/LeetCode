@@ -1,4 +1,4 @@
-// Time: O(log(x))
+// Time: O(N), где N - длина числа x
 class Solution {
 public:
     int reverse(int x) {
